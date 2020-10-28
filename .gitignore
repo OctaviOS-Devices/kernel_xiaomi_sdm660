@@ -117,5 +117,6 @@ all.config
 # fetched Android config fragments
 android/configs/android-*.cfg
 build.sh
+ClangBuild.sh
 kernel.log
 out/
